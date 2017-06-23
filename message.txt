@@ -1,6 +1,6 @@
-5
+6
 ||| 
-[COLOR orange]R33MS 1.8.0 Build Notes[/COLOR]
+[center][COLOR orange]R33MS 1.8.0 Build Notes[/COLOR][/center]
 [COLOR blue]Movies and TV Shows[/COLOR]
 [COLOR white]Exodus, the addon used for Movies and TV Shows, has been in having some issues as of late.  You 
 may have experienced an unusual amount of buffering or issues finding older Movies or Shows lately.  Exodus 
