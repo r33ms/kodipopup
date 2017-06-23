@@ -1,15 +1,15 @@
-7
+8
 ||| 
-<center>[COLOR orange]R33MS 1.8.0 Build Notes[/COLOR]</center>
+[COLOR orange]R33MS 1.8.0 Build Notes[/COLOR]
 [COLOR blue]Movies and TV Shows[/COLOR]
 [COLOR white]Exodus, the addon used for Movies and TV Shows, has been in having some issues as of late.  You 
 may have experienced an unusual amount of buffering or issues finding older Movies or Shows
 lately.  Exodus has been updated in 1.8.0 to perform better, but please be aware, it may still have a 
-few bugs to work out in the coming days.  The developers of the addon are working toward improving 
-it further and when they push an updated version, you can expect it to be implemented into the R33MS 
-build.[/COLOR]
+few bugs to work out in the coming days.  The developers of the addon are working toward 
+improving it further and when they push an updated version, you can expect it to be 
+implemented into the R33MS build.[/COLOR]
 
 [COLOR blue]Entertainment[/COLOR]
 [COLOR white]You will notice a new section under this menu called Cookbook.  This is a collection of media
-related to cooking tutorials from some of the most popular chef's in the world.  The fitness section
-has also been redone and now has more workouts than ever.[/COLOR]
+related to cooking tutorials from some of the most popular chef's in the world.  The fitness 
+section has also been redone and now has more workouts than ever.[/COLOR]
