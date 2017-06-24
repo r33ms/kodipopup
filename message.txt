@@ -1,5 +1,5 @@
-3
+4
 ||| 
 [COLOR orange]A quick word about the buffering in Movies & TV Shows[/COLOR]
 
-[COLOR white]Exodus, the addon used for Movies and TV Shows, has been in having some issues as of late.  You may have experienced an unusual amount of buffering or issues finding older Movies or Shows lately.  Exodus has been updated in 1.8.0 to perform better, but please be aware, it may still have a few bugs to work out in the coming days.  The developers of the addon are working toward improving it further and when they push an updated version, you can expect it to be implemented into the R33MS build.[/COLOR]
+[COLOR white]Exodus, the addon used for Movies and TV Shows, has been having some issues as of late.  You may have experienced an unusual amount of buffering or issues finding older Movies or Shows lately.  Exodus has been updated in R33MS 1.8.0 to perform better, but please be aware, it may still have a few bugs to work out in the coming days.  The developers of the addon are working toward improving it further and when they push an updated version, you can expect it to be implemented into the R33MS build.[/COLOR]
